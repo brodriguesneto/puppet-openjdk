@@ -1,0 +1,21 @@
+# Ruby
+rholog-*
+sim-*
+bin/libs
+bin/RhoBundle
+bin/tmp
+bin/target
+bin/*.ap_
+*.o
+*.jar
+
+# Eclipse and Vagrant
+.settings/*
+.project
+*/*.swp
+.vagrant/
+vagrant
+Vagrantfile
+
+# Ubuntu
+source.list*
