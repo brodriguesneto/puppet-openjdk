@@ -18,4 +18,4 @@ vagrant
 Vagrantfile
 
 # Ubuntu
-source.list*
+sources.list*
